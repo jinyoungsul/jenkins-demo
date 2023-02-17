@@ -1,2 +1,3 @@
 fastapi
 uvicorn
+docker-compose==1.17.1
